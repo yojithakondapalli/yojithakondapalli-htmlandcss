@@ -1,0 +1,49 @@
+<Style>
+ form { 
+        border: 3px solid 	#000000; 
+        }
+   button { 
+        background-color: #15f4ee; 
+        color: white; 
+        padding: 14px 20px; 
+        margin: 8px 0; 
+        border: none; 
+        cursor: pointer; 
+        width: 95%; 
+    } 
+     .container { 
+        padding: 18px; 
+    } 
+    header {
+  background-color:#15f4ee; 
+  padding:1px 20px;
+  text-align: center;
+  margin: 6px 0;
+  font-size:18px;
+  color: white;
+  width: 90%;
+}
+ input[type=text], 
+    input[type=password] { 
+        width: 95%; 
+        padding: 12px 20px; 
+        margin: 8px 0; 
+        font-size: 18px;
+        display: inline-block; 
+        border: 1px solid #000000; 
+        box-sizing: border-box; 
+    }
+        .input-icons i { 
+            position: relative;
+            right: 30px; 
+        } 
+
+.blue
+{      background-color: #008CBA;
+        }
+.red
+{
+        
+background-color: #f44336;}
+          
+</style> 
